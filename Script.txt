@@ -1,0 +1,9 @@
+Clone the Repo 
+
+cd in the Folder
+
+Install the Requirements
+pip install -r req.txt 
+
+Run app 
+streamlit run test.py
